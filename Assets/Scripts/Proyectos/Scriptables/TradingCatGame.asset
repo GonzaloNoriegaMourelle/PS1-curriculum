@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 228c5bc83be967e42b3849c9c5030912, type: 3}
+  m_Name: TradingCatGame
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 124b6c40867741341b6d20701138081c, type: 3}
+  minature: {fileID: 21300000, guid: c9e36abf3cc6eea40a6eeb492abbeb33, type: 3}
+  videoClip: {fileID: 32900000, guid: 883c9f93e2bb28d489c15712ee47a989, type: 3}
+  ScreenShoots:
+  - {fileID: 21300000, guid: eefcede56772b1945b5a8874a48ec185, type: 3}
+  - {fileID: 21300000, guid: b87bb8fa46ed049448e1427793896a9b, type: 3}
+  - {fileID: 21300000, guid: 781eac8568de02a4d92c58ef4a69be14, type: 3}
+  - {fileID: 21300000, guid: 09b9437f137670946ba8fa01a24e32d0, type: 3}
+  - {fileID: 21300000, guid: dbd92d97a420ad1448890e4ae7450ea6, type: 3}
+  - {fileID: 21300000, guid: 4c9bc491a3a889249b00e29cf9184192, type: 3}
+  IDproyect: Trading Cat Game
+  IDdescription: A15
+  gameLink: https://store.steampowered.com/app/2335870/Trading_Cat_Game/
+  passwordLink: 

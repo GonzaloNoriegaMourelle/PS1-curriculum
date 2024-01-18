@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 8f51f8ed470cb114aa921e4c3c214162
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a50e8a5510d34fa4f7c86d3d1c548
+      internalID: -1677145022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83404548cd6cb2b48a5aafe67710b0e2
+      internalID: -1666445925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f17cde577a6bd4a8070ae39bd9f44a
+      internalID: 570728677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0db7e9462e69b42b8097b0d0875ab8
+      internalID: 599829914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_4
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00765656a403f0c4bb215d9e4787f46c
+      internalID: 1578846929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_5
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62eff95094b0a4b9858eb9b5ed6ffc
+      internalID: 1483486418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_6
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9917ec83b231a4bb0e184056021ced
+      internalID: 2132677380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_7
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 930
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0740f21fb0c16458592ad644e59fc5
+      internalID: 1979525535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc1dadc1bd5e542959e4b10905f848
+      internalID: 728529940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0c071c9f93d743a00831d82f9d9d5
+      internalID: -1180012267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033926072fdb37c49922ee0c38dbe513
+      internalID: 1595896356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_11
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb883de4b5fac104aa187a0c5177786a
+      internalID: 1646455746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_12
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec86bdb221c9d49816499268b11f40
+      internalID: -1955529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_13
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a36d0c171cf147bb923e0334cdf0f
+      internalID: 932017016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_14
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c72e6d5819ca40ba40646ce584d22
+      internalID: 1354192341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_15
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 642
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd740b84e0dad047b2aeb3453adf2dd
+      internalID: 1653340802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8354f5865d494ab7dafb3cd0de0fa
+      internalID: -808894156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af95653032d8154c9f4b59aa619f22b
+      internalID: 1857466931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6934aac7e93d4f87955227cd6a6fe
+      internalID: -1522682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e45b987408b44fb8d6bd9d2ffcfd3
+      internalID: 1080666484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_20
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761691c05e112f4f962b259ac7251f8
+      internalID: -1659771541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685799547a6992c43a4740bd52466c52
+      internalID: -1308393765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4bdef8d5995548a8480ca8cb2879e
+      internalID: -1596044307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_23
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 354
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f00c127467b234db89c88008cc79b6
+      internalID: 1872578476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158af8bf8bfc594ea5dcfc54eb9a55e
+      internalID: 64951532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609dfccbc1876e34682698f73adf74cf
+      internalID: 1941266463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2050f3ff08db142a926afeada4a8f8
+      internalID: -2099975239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_27
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbb8bb1695ec5498f3218607af7cf4
+      internalID: -1702514217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_28
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082d4904691c3d409abdeadd5d7f3d3
+      internalID: -1110156311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_29
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf5dff581516c40bf83f11852094fb
+      internalID: -736497512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_30
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348033a5cf2e8847b361c6f59b8bf4a
+      internalID: -582947621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76370-language-country-national-flag-vector-flags_31
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 66
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843dea59b4c4e3a46ace2d9523a2fcfa
+      internalID: -122362465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      76370-language-country-national-flag-vector-flags_0: -1677145022
+      76370-language-country-national-flag-vector-flags_1: -1666445925
+      76370-language-country-national-flag-vector-flags_10: 1595896356
+      76370-language-country-national-flag-vector-flags_11: 1646455746
+      76370-language-country-national-flag-vector-flags_12: -1955529714
+      76370-language-country-national-flag-vector-flags_13: 932017016
+      76370-language-country-national-flag-vector-flags_14: 1354192341
+      76370-language-country-national-flag-vector-flags_15: 1653340802
+      76370-language-country-national-flag-vector-flags_16: -808894156
+      76370-language-country-national-flag-vector-flags_17: 1857466931
+      76370-language-country-national-flag-vector-flags_18: -1522682911
+      76370-language-country-national-flag-vector-flags_19: 1080666484
+      76370-language-country-national-flag-vector-flags_2: 570728677
+      76370-language-country-national-flag-vector-flags_20: -1659771541
+      76370-language-country-national-flag-vector-flags_21: -1308393765
+      76370-language-country-national-flag-vector-flags_22: -1596044307
+      76370-language-country-national-flag-vector-flags_23: 1872578476
+      76370-language-country-national-flag-vector-flags_24: 64951532
+      76370-language-country-national-flag-vector-flags_25: 1941266463
+      76370-language-country-national-flag-vector-flags_26: -2099975239
+      76370-language-country-national-flag-vector-flags_27: -1702514217
+      76370-language-country-national-flag-vector-flags_28: -1110156311
+      76370-language-country-national-flag-vector-flags_29: -736497512
+      76370-language-country-national-flag-vector-flags_3: 599829914
+      76370-language-country-national-flag-vector-flags_30: -582947621
+      76370-language-country-national-flag-vector-flags_31: -122362465
+      76370-language-country-national-flag-vector-flags_4: 1578846929
+      76370-language-country-national-flag-vector-flags_5: 1483486418
+      76370-language-country-national-flag-vector-flags_6: 2132677380
+      76370-language-country-national-flag-vector-flags_7: 1979525535
+      76370-language-country-national-flag-vector-flags_8: 728529940
+      76370-language-country-national-flag-vector-flags_9: -1180012267
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
